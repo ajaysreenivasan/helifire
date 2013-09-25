@@ -7,6 +7,7 @@
 #include <stdio.h>
 #include <X11/Xutil.h>
 #include <ctime>
+#include <unistd.h>
 
 #include "GameObject.h"
 #include "Helicopter.h"
